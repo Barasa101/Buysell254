@@ -1,1 +1,10 @@
 
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.buysell254.com/",
+      "permanent": false
+    }
+  ]
+}
